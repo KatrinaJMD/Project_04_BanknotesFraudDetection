@@ -10,9 +10,9 @@ This project requires performing:
 - Logistic regression type modeling
 
 ### <b>SKILLS ASSESSED</b>
-Perform and interpret a PCA analysis
-Use a Kmeans type clustering algorithm
-Modeling using logistic regression
+- Perform and interpret a PCA analysis
+- Use a Kmeans type clustering algorithm
+- Modeling using logistic regression
 
 ### <b>DATA</b>
 The judicial police sent a data set containing the geometric characteristics of banknotes with the following information:
