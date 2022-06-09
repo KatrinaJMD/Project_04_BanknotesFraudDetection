@@ -45,9 +45,9 @@ Implementation of a principal component analysis of the sample, following all th
 
 ### Mission n°4
 Data modeling using logistic regression. This allows for creating a program capable of predicting the authenticity of a banknote. The classification algorithm determines the probability of a banknote's authenticity.
-> *If probability >= 0.5, then the banknote is considered True (real)
+> *If probability >= 0.5, then the banknote is considered True (real)*
 > 
-> *If probability <= 0.5, then the banknote is considered False (fake)
+> *If probability <= 0.5, then the banknote is considered False (fake)*
 
 # MODEL TESTING AND VALIDATION
 The sample/test data used to test and validate the model can be accessed [here](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/example.csv).
