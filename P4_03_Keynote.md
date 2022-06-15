@@ -1,0 +1,1 @@
+Link to [Project_04_BanknotesFraudDetection Keynote](https://www.canva.com/design/DAE52ilX9fg/wj8xfcfZdv_vxPrdpV-oJQ/view?utm_content=DAE52ilX9fg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
